@@ -10,3 +10,8 @@ a repo for the course presented in FMI
 		      and I am focusing a significant effort in learning the best
 		      practices in that aspect too.
 
+
+# Further topics
+
+ - [most important topic in the matplotlib guide](http://matplotlib.org/tutorials/introductory/usage.html#sphx-glr-tutorials-introductory-usage-py)
+
