@@ -13,5 +13,6 @@ a repo for the course presented in FMI
 
 # Further topics
 
- - [most important topic in the matplotlib guide](http://matplotlib.org/tutorials/introductory/usage.html#sphx-glr-tutorials-introductory-usage-py)
+ - [Introduction to usage of matplotlib](http://matplotlib.org/tutorials/introductory/usage.html#sphx-glr-tutorials-introductory-usage-py)
+ - [The lifecycle of a plot (starting with raw data)](http://matplotlib.org/tutorials/introductory/lifecycle.html#sphx-glr-tutorials-introductory-lifecycle-py)
 
