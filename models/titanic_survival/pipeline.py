@@ -26,4 +26,4 @@ def one_hotter_encoding(dataset, features):
         for value in unique_vals:
             encoded[f"{feature}_{value}"] = (encoded[feature] == value).astype(float)
     
-    return encoded    
+    return encoded
